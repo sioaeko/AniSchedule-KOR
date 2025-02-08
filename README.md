@@ -1,9 +1,7 @@
 # Anischedule-KOR
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/tv-2.svg" width="100" alt="Anischedule-KOR 로고">
-  <h1>백지스케줄 - 일본 애니메이션 편성표</h1>
-</div>
+![CleanShot 2025-02-08 at 15 30 56](https://github.com/user-attachments/assets/c56f14a0-7b77-4fe7-915c-46ce8f13e2b3)
+
 
 ## 📺 프로젝트 소개
 
@@ -82,8 +80,8 @@ https://anizone.life
 
 프로젝트에 대한 문의사항이나 제안이 있으시다면 이슈를 등록해 주시거나 다음 연락처로 문의해 주세요:
 
-- 이메일: [your.email@example.com]
-- 트위터: [@yourusername]
+- 이메일: asanaridev@proton.me
+- 텔레그램: @sioaeko
 
 ## 🙏 감사의 말
 
