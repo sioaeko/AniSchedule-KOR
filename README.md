@@ -1,4 +1,4 @@
-# Anischedule-KOR
+# Anischedule-KR :: 백지스케줄
 
 ![CleanShot 2025-02-08 at 15 30 56](https://github.com/user-attachments/assets/c56f14a0-7b77-4fe7-915c-46ce8f13e2b3)
 
