@@ -33,8 +33,8 @@
 
 1. 저장소 클론
 ```bash
-git clone https://github.com/yourusername/Anischedule-KOR.git
-cd Anischedule-KOR
+git clone https://github.com/sioaeko/Anischedule-KR.git
+cd Anischedule-KR
 ```
 
 2. 의존성 설치
